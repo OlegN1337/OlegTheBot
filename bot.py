@@ -15,7 +15,7 @@ import gettingurls
 import listoflists
 
 # ================= Токен ======================================================
-telegram_token = '751143273:AAH2nH4tz4SPiBuoyb7DjzT0B7LNHps9nis'
+telegram_token = 'токен тут'
 bot = telebot.TeleBot(telegram_token)
 
 # ================= Команды ====================================================
